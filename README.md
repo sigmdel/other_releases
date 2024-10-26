@@ -2,7 +2,7 @@
 
 **Firmware for microcontrollers.**
 
-- **espat_esp01_2024_10_25.zip** : Contains `factory_ESP8266_1MB.bin`, ESP-AT V2.2.1 binary for ESP8266 with 1MB flash memory obtained by compiling the `esp-at` source code using [GitHub codespaces]. See [Compile AT Firmware for ESP-01S](https://github.com/bablokb/circuitpython-esp32at/blob/main/doc/at_firmware_compile_esp01s.md) by bablokb which *contains simple to use instructions for compiling your own firmware. You need nothing except a Github-account and about a quarter of an hour*.
+- **espat_esp01_2024_10_25.zip** : Contains `factory_ESP8266_1MB.bin`, ESP-AT V2.2.1 binary for ESP8266 with 1MB flash memory obtained by compiling the `esp-at` source code in [GitHub Codespaces](https://github.com/features/codespaces). See [Compile AT Firmware for ESP-01S](https://github.com/bablokb/circuitpython-esp32at/blob/main/doc/at_firmware_compile_esp01s.md) by bablokb which *contains simple to use instructions for compiling your own firmware. You need nothing except a Github-account and about a quarter of an hour*.
 
   <blockquote>
 
