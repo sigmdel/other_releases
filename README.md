@@ -1,6 +1,6 @@
 # other_releases
 
-**Firmware for ESP microcontrollers.**
+**Firmware for ESP microcontrollers and sundry material**
 
 ---
 
@@ -30,3 +30,10 @@ See [Installing the AT Firmware on an ESP-01S](https://sigmdel.ca/michel/ha/esp8
 ## Module: ESP32-2432S028R (Cheap Yellow Display)
 
 - **cydMacroPad.zip** : Contains `cydMacroPad.bin` macro keypad firmware for the ESP32-2432S028R (aka CYD - [Cheap Yellow Display](https://github.com/witnessmenow/)) development board. See [cydMacroPad/README.md](https://github.com/sigmdel/lazmacropad/blob/main/cydMacroPad/README.md) and [TFT_eTouch](https://github.com/sigmdel/TFT_eTouch/blob/master/README_TOO.md).
+
+
+---
+
+## Scripts, Icons and Configuration Files for Globe 2-Socket Outdoor Plug (50151) with bk7231T microcontroller
+
+- **bk7231T-GlobeOutdoor-Plug.zip** : Contains an `autoexec.bat` file to setup event handlers in the OpenBK7231T_App, two Domoticz custom icon files, a Domoticz On/Off Action bash script, and a json template for a simplified device configuration. See [A Beken BK7231T Device In Domoticz](https://sigmdel.ca/michel/ha/domoticz/beken7231_domoticz_en.html).
