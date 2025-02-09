@@ -6,6 +6,14 @@
 
 ## Module: ESP01-S (1 MB flash)
 
+- **espat_176_esp01s.zip** : Contains `espat_176_esp01s.bin`, ESP-AT (version 1.7.6) binary based on the *legacy* ESP8266 NonOS SDK.
+
+      AT+GMR
+      AT version:1.7.6.0(Jan 24 2022 08:56:02)
+      SDK version:3.0.6-dev(072755c)
+      compile time:Jun 17 2024 07:38:00
+      Bin version(Wroom 02):1.7.6
+
 
 - **espat_221_esp01s.zip** : Contains `espat_221_esp01s.bin`, ESP-AT (version 2.2.1) binary based on the ESP8266 RTOS SDK.
 
@@ -15,12 +23,7 @@
       Bin version:2.2.1(ESP8266_1MB)
       AT version:2.2.2.0-dev(e3958a6 - ESP8266 - Oct 30 2024 02:42:04)
 
-- **espat_176_esp01s.zip** : Contains `espat_176_esp01s.bin`, ESP-AT (version 1.7.6) binary based on the *legacy* ESP8266 NonOS SDK.
-
-      AT version:2.2.2.0-dev(b65f53f - ESP8266 - Jul  5 2024 06:59:26)
-      SDK version:v3.4-84-ge19ff9af  
-      compile time(73094a40):Oct 25 2024 03:20:06  
-      Bin version:2.2.1(ESP8266_1MB)  
+  > Since Nov 5, 2024 there have been more commits to the [release/v2.2.0.0](https://github.com/espressif/esp-at/tree/release/v2.2.0.0_esp8266) branch of ESP-AT.
 
 See [Installing the AT Firmware on an ESP-01S](https://sigmdel.ca/michel/ha/esp8266/ESP01_AT_Firmware_en.html) for details.
 
